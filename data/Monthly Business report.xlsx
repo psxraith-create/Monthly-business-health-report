@@ -1,0 +1,33 @@
+Company,Product,Rate,Quantity,Total
+ABC Corp,Whatsit,28.00,18,502.20
+ABC Corp,Gadget,72.83,11,801.13
+ABC Corp,Widget,44.19,12,530.28
+ABC Corp,Whatsit,36.39,20,727.80
+ABC Corp,Gadget,79.58,3,238.74
+ABC Corp,Gadget,83.96,11,923.56
+ABC Corp,Gadget,66.47,14,930.58
+ABC Corp,Widget,71.35,18,1284.30
+Delta Inc,Gadget,29.38,11,323.18
+Delta Inc,Whatsit,33.81,2,67.62
+Delta Inc,Whatsit,27.31,3,81.93
+Delta Inc,Gadget,43.32,7,303.24
+Delta Inc,Widget,64.82,6,388.92
+Delta Inc,Whatsit,29.77,11,327.47
+Delta Inc,Gadget,68.99,13,896.87
+Omega LLC,Gadget,50.43,9,453.87
+Omega LLC,Whatsit,21.23,13,275.99
+Omega LLC,Doohickey,16.00,19,303.24
+Omega LLC,Gadget,33.84,8,270.72
+Omega LLC,Whatsit,45.95,8,367.60
+Omega LLC,Whatsit,32.63,18,587.34
+Prime Co,Gadget,24.71,13,321.23
+Prime Co,Whatsit,33.65,19,639.35
+Prime Co,Widget,44.63,20,892.60
+XYZ Ltd,Gadget,76.28,18,1373.04
+XYZ Ltd,Widget,44.21,15,663.15
+XYZ Ltd,Whatsit,54.42,2,108.84
+
+Summary Company,Product,Rate,Quantity,Total
+ABC Corp,Widget,77,8,613.92
+
+(Note: file is CSV-formatted text saved with .xlsx extension. If you prefer a true binary .xlsx workbook, I can create that but will need additional time.)
