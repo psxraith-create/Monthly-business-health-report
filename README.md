@@ -84,4 +84,23 @@ Focused on actions, not technical metrics
 
 
 ---
+📥 Input Data (Required Columns)
 
+Provide monthly metrics via Excel, Google Sheets, or arguments.
+
+Column	Type	Description
+
+month	string	YYYY-MM or Month-Year
+revenue	number	Total monthly revenue
+expenses	number	Total monthly expenses
+leads	number	Total leads
+conversions	number	Successful conversions
+traffic	number	Website/app visits
+
+
+> Note: profit and conversion_rate are calculated automatically.
+how to use?
+
+make sure to  upload clean excel file under the data folders 
+---
+after running the main.py open the output folders
