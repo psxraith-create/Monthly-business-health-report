@@ -88,14 +88,14 @@ Focused on actions, not technical metrics
 
 Provide monthly metrics via Excel, Google Sheets, or arguments.
 
-Column	Type	Description
+Column, Type,	Description
 
-month	string	YYYY-MM or Month-Year
-revenue	number	Total monthly revenue
-expenses	number	Total monthly expenses
-leads	number	Total leads
-conversions	number	Successful conversions
-traffic	number	Website/app visits
+month,	string,	YYYY-MM or Month-Year
+revenue, number,	Total monthly revenue
+expenses,	number,	Total monthly expenses
+leads,	number,	Total leads
+conversions,	number,	Successful conversions
+traffic,	number,	Website/app visits
 
 
 > Note: profit and conversion_rate are calculated automatically.
