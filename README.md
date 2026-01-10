@@ -85,25 +85,3 @@ Focused on actions, not technical metrics
 
 ---
 
-What This Is (and Is Not)
-
-What this IS
-
-A subscription-based business intelligence service
-
-A decision-support engine for small and growing businesses
-
-A productized system that blends automation with business reasoning
-
-
-What this is NOT
-
-Not a generic AI chatbot
-
-Not a raw dashboard tool
-
-Not a fully self-serve SaaS (yet)
-
-
-
----
